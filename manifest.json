@@ -1,5 +1,20 @@
 [
   {
+    "id": "test_worker_e2e",
+    "name": "中转站实测",
+    "author": "尘心用户#TEST",
+    "animType": "stroke",
+    "color": "#4ec9b0",
+    "stars": 0,
+    "animations": [
+      {
+        "frames": 1,
+        "name": "测试"
+      }
+    ],
+    "updated": "2026-10-17T19:06:50Z"
+  },
+  {
     "id": "seed_1792246682977_1",
     "name": "描边圆环",
     "author": "LYLnpc",
