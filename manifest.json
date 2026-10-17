@@ -1,0 +1,47 @@
+[
+  {
+    "id": "seed_1792246682977_1",
+    "name": "描边圆环",
+    "author": "LYLnpc",
+    "animType": "stroke",
+    "color": "#7ee787",
+    "stars": 0,
+    "animations": [
+      {
+        "name": "描边展开",
+        "frames": 19
+      }
+    ],
+    "updated": "2026-10-17T18:11:39.138Z"
+  },
+  {
+    "id": "seed_1792246682977_2",
+    "name": "脉冲星形",
+    "author": "LYLnpc",
+    "animType": "pulse",
+    "color": "#ff7b72",
+    "stars": 0,
+    "animations": [
+      {
+        "name": "脉冲缩放",
+        "frames": 13
+      }
+    ],
+    "updated": "2026-10-17T18:11:39.156Z"
+  },
+  {
+    "id": "seed_1792246682977_3",
+    "name": "旋转方框",
+    "author": "LYLnpc",
+    "animType": "spinner",
+    "color": "#dcdcaa",
+    "stars": 0,
+    "animations": [
+      {
+        "name": "旋转一周",
+        "frames": 15
+      }
+    ],
+    "updated": "2026-10-17T18:11:39.172Z"
+  }
+]
