@@ -1,5 +1,23 @@
 [
   {
+    "id": "sh_testadmin2",
+    "kind": "shape",
+    "name": "测试图案·二号",
+    "author": "尘心用户#TEST",
+    "source": "user",
+    "category": "其它",
+    "animType": "stroke",
+    "color": "#4ec9b0",
+    "stars": 0,
+    "animations": [
+      {
+        "name": "预览",
+        "frames": 2
+      }
+    ],
+    "updated": "2026-10-18T23:25:44Z"
+  },
+  {
     "id": "sh_testadmin1",
     "kind": "shape",
     "name": "测试图案（可下架）",
